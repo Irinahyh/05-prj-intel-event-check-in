@@ -231,4 +231,5 @@ form.addEventListener("submit", function (event) {
 
   // Reset inputs
   nameInput.value = "";
-  teamSelect.selectedIndex
+  teamSelect.selectedIndex = 0;
+});
